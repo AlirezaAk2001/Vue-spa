@@ -3,12 +3,13 @@
     <div class="row">
       <div class="col-md-6">
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-          totam, ratione, voluptas eveniet soluta incidunt itaque optio beatae
-          id temporibus, ex exercitationem sint ad earum in sed? Quam, cum sunt.
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-          totam, ratione, voluptas eveniet soluta incidunt itaque optio beatae
-          id temporibus, ex exercitationem sint ad earum in sed? Quam, cum sunt.
+          ❤️Welcome to my website❤️
+          <br>
+          This website is developed using the Vue.js framework.
+          The project structure follows a component-based architecture, with logical separation of files into <strong>components</strong> and <strong>pages</strong>  directories.
+          Routing is handled by Vue Router, with each route mapped to a specific view.
+          The user interface is styled using Bootstrap classes to ensure responsiveness and consistency.
+          The codebase is modular and maintainable, facilitating future development and scalability.
         </p>
 
         <router-link class="btn btn-dark" :to="{name:'users'}">Users</router-link>
